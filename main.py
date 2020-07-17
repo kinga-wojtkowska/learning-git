@@ -10,3 +10,5 @@ length = 0
 for k, v in shopping_list.items():
     length = length + len(shopping_list[k])
 print("W sumie kupuję", length, "produktów")
+
+print("\nCiekawe co mi z tego wyjdzie")
