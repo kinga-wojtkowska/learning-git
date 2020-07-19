@@ -15,3 +15,5 @@ print("\nCiekawe co mi z tego wyjdzie")
 
 print("\nGotuję właśnie bób")
 print("\nMniam, mniam, będzie pyszny obiadek!")
+
+print("co tam, co tam co tam")
